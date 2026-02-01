@@ -1,18 +1,18 @@
-📊 Massachusetts Data Breach Analysis
+## 📊 Massachusetts Data Breach Analysis
 
-Project Title: Unveiling Cyber Threats: An Empirical Analysis of Massachusetts Data Breaches
+## Project Title: Unveiling Cyber Threats: An Empirical Analysis of Massachusetts Data Breaches
 
-Overview
+# Overview
 
 This repository contains a cleaned and structured dataset analyzing publicly reported data breaches in the Commonwealth of Massachusetts. The project focuses on identifying breach patterns, affected industries, disclosure timelines, and the impact on Massachusetts residents.
 
 The dataset is intended for empirical cybersecurity research, policy analysis, and comparative state-level studies.
 
-Data Source
+# Data Source
 
 The dataset is derived from publicly available Massachusetts data breach notifications. All records reflect disclosures as originally reported by organizations, with no inferred or synthesized values.
 
-Dataset Description
+# Dataset Description
 
 Total records: 5,371 data breach incidents
 
@@ -38,7 +38,7 @@ Time to disclosure
 
 Supplementary notes
 
-Data Preparation
+# Data Preparation
 
 The dataset underwent structured preprocessing to ensure analytical usability while preserving data integrity:
 
@@ -56,7 +56,7 @@ Missing values intentionally preserved
 
 Records with unclear or insufficient information were categorized as OTHER where necessary to maintain consistency without altering original disclosures.
 
-Data Limitations
+# Data Limitations
 
 This dataset reflects real-world reporting constraints:
 
@@ -68,7 +68,7 @@ Not all breach descriptions clearly specify technical details
 
 Records with incomplete timelines are best suited for frequency-based and categorical analysis rather than precise time-series modeling.
 
-Intended Use
+# Intended Use
 
 This dataset supports research and analysis related to:
 
@@ -82,10 +82,10 @@ Impact of breaches on state residents
 
 Policy and regulatory evaluation
 
-Citation
+# Citation
 
 If you use this dataset in academic or professional work, please cite appropriately and reference the original public disclosure sources.
 
-License
+# License
 
 This dataset is derived from public records and is provided for research and educational purposes.
