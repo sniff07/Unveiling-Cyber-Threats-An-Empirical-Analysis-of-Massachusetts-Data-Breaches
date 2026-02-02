@@ -1,6 +1,6 @@
 ## 📊 Massachusetts Data Breach Analysis
 
-## Project Title: Unveiling Cyber Threats: An Empirical Analysis of Massachusetts Data Breaches
+## Project Title: Empirical Analysis of Massachusetts Data Breaches
 
 # Overview
 
